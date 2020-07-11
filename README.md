@@ -1,1 +1,1 @@
-![Akshat Bhanchawat](assets/GithubCover.png)
+![Akshat Bhanchawat](/assets/GithubCover.png)
